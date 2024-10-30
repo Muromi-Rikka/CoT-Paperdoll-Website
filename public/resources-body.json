@@ -1,0 +1,203 @@
+{
+  "breasts": [
+    {
+      "key": "breast_1_clothed",
+      "name": "胸部 clothed 1",
+      "path": "/body/breasts/breast1_clothed.png"
+    },
+    {
+      "key": "breast_1",
+      "name": "胸部 1",
+      "path": "/body/breasts/breast1.png"
+    },
+    {
+      "key": "breast_2_clothed",
+      "name": "胸部 clothed 2",
+      "path": "/body/breasts/breast2_clothed.png"
+    },
+    {
+      "key": "breast_2",
+      "name": "胸部 2",
+      "path": "/body/breasts/breast2.png"
+    },
+    {
+      "key": "breast_3_clothed",
+      "name": "胸部 clothed 3",
+      "path": "/body/breasts/breast3_clothed.png"
+    },
+    {
+      "key": "breast_3",
+      "name": "胸部 3",
+      "path": "/body/breasts/breast3.png"
+    },
+    {
+      "key": "breast_4_clothed",
+      "name": "胸部 clothed 4",
+      "path": "/body/breasts/breast4_clothed.png"
+    },
+    {
+      "key": "breast_4",
+      "name": "胸部 4",
+      "path": "/body/breasts/breast4.png"
+    },
+    {
+      "key": "breast_5_clothed",
+      "name": "胸部 clothed 5",
+      "path": "/body/breasts/breast5_clothed.png"
+    },
+    {
+      "key": "breast_5",
+      "name": "胸部 5",
+      "path": "/body/breasts/breast5.png"
+    },
+    {
+      "key": "breast_6_clothed",
+      "name": "胸部 clothed 6",
+      "path": "/body/breasts/breast6_clothed.png"
+    },
+    {
+      "key": "breast_6",
+      "name": "胸部 6",
+      "path": "/body/breasts/breast6.png"
+    }
+  ],
+  "penis": [
+    {
+      "key": "penis_0",
+      "name": "阴茎 0",
+      "path": "/body/penis/penis0.png"
+    },
+    {
+      "key": "penis_virgin_0",
+      "name": "处男阴茎 0",
+      "path": "/body/penis/penis_virgin0.png"
+    },
+    {
+      "key": "penis_uncircumcised_0",
+      "name": "未露出阴茎 0",
+      "path": "/body/penis/penis0_uncircumcised.png"
+    },
+    {
+      "key": "penis_1",
+      "name": "阴茎 1",
+      "path": "/body/penis/penis1.png"
+    },
+    {
+      "key": "penis_virgin_1",
+      "name": "处男阴茎 1",
+      "path": "/body/penis/penis_virgin1.png"
+    },
+    {
+      "key": "penis_uncircumcised_1",
+      "name": "未露出阴茎 1",
+      "path": "/body/penis/penis1_uncircumcised.png"
+    },
+    {
+      "key": "penis_2",
+      "name": "阴茎 2",
+      "path": "/body/penis/penis2.png"
+    },
+    {
+      "key": "penis_virgin_2",
+      "name": "处男阴茎 2",
+      "path": "/body/penis/penis_virgin2.png"
+    },
+    {
+      "key": "penis_uncircumcised_2",
+      "name": "未露出阴茎 2",
+      "path": "/body/penis/penis2_uncircumcised.png"
+    },
+    {
+      "key": "penis_3",
+      "name": "阴茎 3",
+      "path": "/body/penis/penis3.png"
+    },
+    {
+      "key": "penis_virgin_3",
+      "name": "处男阴茎 3",
+      "path": "/body/penis/penis_virgin3.png"
+    },
+    {
+      "key": "penis_uncircumcised_3",
+      "name": "未露出阴茎 3",
+      "path": "/body/penis/penis3_uncircumcised.png"
+    },
+    {
+      "key": "penis_4",
+      "name": "阴茎 4",
+      "path": "/body/penis/penis4.png"
+    },
+    {
+      "key": "penis_virgin_4",
+      "name": "处男阴茎 4",
+      "path": "/body/penis/penis_virgin4.png"
+    },
+    {
+      "key": "penis_uncircumcised_4",
+      "name": "未露出阴茎 4",
+      "path": "/body/penis/penis4_uncircumcised.png"
+    },
+    {
+      "key": "penis_5",
+      "name": "阴茎 5",
+      "path": "/body/penis/penis5.png"
+    },
+    {
+      "key": "penis_virgin_5",
+      "name": "处男阴茎 5",
+      "path": "/body/penis/penis_virgin5.png"
+    },
+    {
+      "key": "penis_uncircumcised_5",
+      "name": "未露出阴茎 5",
+      "path": "/body/penis/penis5_uncircumcised.png"
+    },
+    {
+      "key": "penis_6",
+      "name": "阴茎 6",
+      "path": "/body/penis/penis6.png"
+    },
+    {
+      "key": "penis_virgin_6",
+      "name": "处男阴茎 6",
+      "path": "/body/penis/penis_virgin6.png"
+    },
+    {
+      "key": "penis_uncircumcised_6",
+      "name": "未露出阴茎 6",
+      "path": "/body/penis/penis6_uncircumcised.png"
+    }
+  ],
+  "base": [
+    {
+      "key": "body_basehead",
+      "name": "头部基模",
+      "path": "/body/basehead.png"
+    },
+    {
+      "key": "body_basenoarms-m",
+      "name": "无手臂身体基模",
+      "path": "/body/basenoarms-m.png"
+    },
+    {
+      "key": "body_basenoarms-f",
+      "name": "无手臂身体基模",
+      "path": "/body/basenoarms-f.png"
+    },
+    {
+      "key": "body_basetorso",
+      "name": "躯干基模",
+      "path": "/body/basetorso.png"
+    },
+    {
+      "key": "body_leftarm",
+      "name": "左臂",
+      "path": "/body/leftarm.png"
+    },
+    {
+      "key": "body_rightarm",
+      "name": "右臂",
+      "path": "/body/rightarm.png"
+    }
+  ]
+}

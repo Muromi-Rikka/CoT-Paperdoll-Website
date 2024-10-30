@@ -1,0 +1,311 @@
+{
+  "distinguishing_marks": [
+    {
+      "key": "button nose",
+      "name": "圆头鼻",
+      "path": "/face/dmarks/button_nose.png"
+    },
+    {
+      "key": "delicate nose",
+      "name": "细长鼻",
+      "path": "/face/dmarks/delicate_nose.png"
+    },
+    {
+      "key": "flat-tipped nose",
+      "name": "平顶鼻",
+      "path": "/face/dmarks/flat-tipped_nose.png"
+    },
+    {
+      "key": "sharp nose",
+      "name": "尖鼻子",
+      "path": "/face/dmarks/sharp_nose.png"
+    },
+    {
+      "key": "prominent nose",
+      "name": "高鼻子",
+      "path": "/face/dmarks/prominent_nose.png"
+    },
+    {
+      "key": "wide nose",
+      "name": "宽鼻子",
+      "path": "/face/dmarks/wide_nose.png"
+    },
+    {
+      "key": "bulbous nose",
+      "name": "球形鼻",
+      "path": "/face/dmarks/bulbous_nose.png"
+    },
+    {
+      "key": "crooked nose",
+      "name": "歪鼻子",
+      "path": "/face/dmarks/crooked_nose.png"
+    },
+    {
+      "key": "narrow eyes",
+      "name": "眯眯眼",
+      "path": "/face/dmarks/narrow_eyes.png"
+    },
+    {
+      "key": "heavy-lidded eyes",
+      "name": "垂睑眼",
+      "path": "/face/dmarks/heavy-lidded_eyes.png"
+    },
+    {
+      "key": "almond-shaped eyes",
+      "name": "杏仁眼",
+      "path": "/face/dmarks/almond-shaped_eyes.png"
+    },
+    {
+      "key": "squinty eyes",
+      "name": "斜视眼",
+      "path": "/face/dmarks/squinty_eyes.png"
+    },
+    {
+      "key": "hooded eyes",
+      "name": "半睁眼",
+      "path": "/face/dmarks/hooded_eyes.png"
+    },
+    {
+      "key": "deep-set eyes",
+      "name": "深陷的眼睛",
+      "path": "/face/dmarks/deep-set_eyes.png"
+    },
+    {
+      "key": "wide-set eyes",
+      "name": "宽距眼",
+      "path": "/face/dmarks/wide-set_eyes.png"
+    },
+    {
+      "key": "large eyes",
+      "name": "大眼睛",
+      "path": "/face/dmarks/large_eyes.png"
+    },
+    {
+      "key": "prominent eyes",
+      "name": "凸眼",
+      "path": "/face/dmarks/prominent_eyes.png"
+    },
+    {
+      "key": "upturned eyes",
+      "name": "丹凤眼",
+      "path": "/face/dmarks/upturned_eyes.png"
+    },
+    {
+      "key": "downturned eyes",
+      "name": "下垂眼",
+      "path": "/face/dmarks/downturned_eyes.png"
+    },
+    {
+      "key": "long eyelashes",
+      "name": "长睫毛",
+      "path": "/face/dmarks/long_eyelashes.png"
+    },
+    {
+      "key": "thick eyelashes",
+      "name": "浓睫毛",
+      "path": "/face/dmarks/thick_eyelashes.png"
+    },
+    {
+      "key": "curly eyelashes",
+      "name": "卷睫毛",
+      "path": "/face/dmarks/curly_eyelashes.png"
+    },
+    {
+      "key": "wispy eyelashes",
+      "name": "细睫毛",
+      "path": "/face/dmarks/wispy_eyelashes.png"
+    },
+    {
+      "key": "thin eyebrows",
+      "name": "细眉",
+      "path": "/face/dmarks/thin_eyebrows.png"
+    },
+    {
+      "key": "plucked eyebrows",
+      "name": "修过的眉毛",
+      "path": "/face/dmarks/plucked_eyebrows.png"
+    },
+    {
+      "key": "thick eyebrows",
+      "name": "浓眉毛",
+      "path": "/face/dmarks/thick_eyebrows.png"
+    },
+    {
+      "key": "bushy eyebrows",
+      "name": "粗眉毛",
+      "path": "/face/dmarks/bushy_eyebrows.png"
+    },
+    {
+      "key": "arched eyebrows",
+      "name": "弯眉毛",
+      "path": "/face/dmarks/arched_eyebrows.png"
+    },
+    {
+      "key": "unkempt eyebrows",
+      "name": "粗犷的眉毛",
+      "path": "/face/dmarks/unkempt_eyebrows.png"
+    },
+    {
+      "key": "expressive eyebrows",
+      "name": "灵动的眉毛",
+      "path": "/face/dmarks/expressive_eyebrows.png"
+    },
+    {
+      "key": "thin lips",
+      "name": "薄嘴唇",
+      "path": "/face/dmarks/thin_lips.png"
+    },
+    {
+      "key": "full lips",
+      "name": "厚嘴唇",
+      "path": "/face/dmarks/full_lips.png"
+    },
+    {
+      "key": "bow-shaped lips",
+      "name": "弓形唇",
+      "path": "/face/dmarks/bow-shaped_lips.png"
+    },
+    {
+      "key": "curved lips",
+      "name": "弯唇",
+      "path": "/face/dmarks/curved_lips.png"
+    },
+    {
+      "key": "wide lips",
+      "name": "宽嘴唇",
+      "path": "/face/dmarks/wide_lips.png"
+    },
+    {
+      "key": "heart-shaped lips",
+      "name": "心形唇",
+      "path": "/face/dmarks/heart-shaped_lips.png"
+    },
+    {
+      "key": "plump lips",
+      "name": "饱满的嘴唇",
+      "path": "/face/dmarks/plump_lips.png"
+    },
+    {
+      "key": "pointed chin",
+      "name": "尖下巴",
+      "path": "/face/dmarks/pointed_chin.png"
+    },
+    {
+      "key": "large chin",
+      "name": "大下巴",
+      "path": "/face/dmarks/large_chin.png"
+    },
+    {
+      "key": "square chin",
+      "name": "方下巴",
+      "path": "/face/dmarks/square_chin.png"
+    },
+    {
+      "key": "cleft chin",
+      "name": "裂下巴",
+      "path": "/face/dmarks/cleft_chin.png"
+    },
+    {
+      "key": "dimpled chin",
+      "name": "酒窝脸",
+      "path": "/face/dmarks/dimpled_chin.png"
+    },
+    {
+      "key": "jutting chin",
+      "name": "凸下巴",
+      "path": "/face/dmarks/jutting_chin.png"
+    },
+    {
+      "key": "weak chin",
+      "name": "小下巴",
+      "path": "/face/dmarks/weak_chin.png"
+    },
+    {
+      "key": "sharp chin",
+      "name": "锋利的下巴",
+      "path": "/face/dmarks/sharp_chin.png"
+    },
+    {
+      "key": "heart-shaped face",
+      "name": "心形脸",
+      "path": "/face/dmarks/heart-shaped_face.png"
+    },
+    {
+      "key": "oval-shaped face",
+      "name": "椭圆脸",
+      "path": "/face/dmarks/oval-shaped_face.png"
+    },
+    {
+      "key": "round face",
+      "name": "圆脸",
+      "path": "/face/dmarks/round_face.png"
+    },
+    {
+      "key": "sharp-featured face",
+      "name": "五官分明的脸",
+      "path": "/face/dmarks/sharp-featured_face.png"
+    },
+    {
+      "key": "angular face",
+      "name": "棱角分明的脸",
+      "path": "/face/dmarks/angular_face.png"
+    },
+    {
+      "key": "rough-hewn face",
+      "name": "粗糙的脸",
+      "path": "/face/dmarks/rough-hewn_face.png"
+    },
+    {
+      "key": "soft-featured face",
+      "name": "柔和的脸",
+      "path": "/face/dmarks/soft-featured_face.png"
+    },
+    {
+      "key": "gaunt face",
+      "name": "枯瘦的脸",
+      "path": "/face/dmarks/gaunt_face.png"
+    },
+    {
+      "key": "haggard face",
+      "name": "憔悴的脸",
+      "path": "/face/dmarks/haggard_face.png"
+    },
+    {
+      "key": "freckled face",
+      "name": "雀斑脸",
+      "path": "/face/dmarks/freckled_face.png"
+    }
+  ],
+  "face_other": [
+    {
+      "key": "face_baseeyes",
+      "name": "眼睛基模",
+      "path": "/face/baseeyes.png"
+    },
+    {
+      "key": "face_basemouth",
+      "name": "嘴巴基模",
+      "path": "/face/basemouth.png"
+    },
+    {
+      "key": "face_basenose",
+      "name": "鼻子基模",
+      "path": "/face/basenose.png"
+    },
+    {
+      "key": "face_baseeyebrows",
+      "name": "眉毛基模",
+      "path": "/face/baseeyebrows.png"
+    },
+    {
+      "key": "face_baseface",
+      "name": "脸基模",
+      "path": "/face/baseface.png"
+    },
+    {
+      "key": "face_basechin",
+      "name": "下巴基模",
+      "path": "/face/basechin.png"
+    }
+  ]
+}

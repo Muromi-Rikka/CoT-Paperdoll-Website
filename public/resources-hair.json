@@ -1,0 +1,3113 @@
+[
+  {
+    "key": "hair_unstyled",
+    "name": "未经打理的",
+    "paths": [
+      {
+        "key": "hair_front_unstyled_close-cropped",
+        "name": "未经打理的 超短的 前",
+        "path": "/hair/front/unstyled/close-cropped.png"
+      },
+      {
+        "key": "hair_back_unstyled_close-cropped",
+        "name": "未经打理的 超短的 后",
+        "path": "/hair/back/unstyled/close-cropped.png"
+      },
+      {
+        "key": "hair_front_unstyled_very_short",
+        "name": "未经打理的 非常短的 前",
+        "path": "/hair/front/unstyled/very_short.png"
+      },
+      {
+        "key": "hair_back_unstyled_very_short",
+        "name": "未经打理的 非常短的 后",
+        "path": "/hair/back/unstyled/very_short.png"
+      },
+      {
+        "key": "hair_front_unstyled_short",
+        "name": "未经打理的 较短的 前",
+        "path": "/hair/front/unstyled/short.png"
+      },
+      {
+        "key": "hair_back_unstyled_short",
+        "name": "未经打理的 较短的 后",
+        "path": "/hair/back/unstyled/short.png"
+      },
+      {
+        "key": "hair_front_unstyled_ear-length",
+        "name": "未经打理的 耳朵长度的 前",
+        "path": "/hair/front/unstyled/ear-length.png"
+      },
+      {
+        "key": "hair_back_unstyled_ear-length",
+        "name": "未经打理的 耳朵长度的 后",
+        "path": "/hair/back/unstyled/ear-length.png"
+      },
+      {
+        "key": "hair_front_unstyled_chin-length",
+        "name": "未经打理的 下巴长度的 前",
+        "path": "/hair/front/unstyled/chin-length.png"
+      },
+      {
+        "key": "hair_back_unstyled_chin-length",
+        "name": "未经打理的 下巴长度的 后",
+        "path": "/hair/back/unstyled/chin-length.png"
+      },
+      {
+        "key": "hair_front_unstyled_shoulder-length",
+        "name": "未经打理的 肩膀长度的 前",
+        "path": "/hair/front/unstyled/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_unstyled_shoulder-length",
+        "name": "未经打理的 肩膀长度的 后",
+        "path": "/hair/back/unstyled/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_unstyled_mid-back_length",
+        "name": "未经打理的 后背长度的 前",
+        "path": "/hair/front/unstyled/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_unstyled_mid-back_length",
+        "name": "未经打理的 后背长度的 后",
+        "path": "/hair/back/unstyled/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_unstyled_waist-length",
+        "name": "未经打理的 及腰的 前",
+        "path": "/hair/front/unstyled/waist-length.png"
+      },
+      {
+        "key": "hair_back_unstyled_waist-length",
+        "name": "未经打理的 及腰的 后",
+        "path": "/hair/back/unstyled/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_deliberately messy-looking",
+    "name": "刻意凌乱",
+    "paths": [
+      {
+        "key": "hair_front_deliberately_messy-looking_close-cropped",
+        "name": "刻意凌乱 超短的 前",
+        "path": "/hair/front/deliberately_messy-looking/close-cropped.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_close-cropped",
+        "name": "刻意凌乱 超短的 后",
+        "path": "/hair/back/deliberately_messy-looking/close-cropped.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_very_short",
+        "name": "刻意凌乱 非常短的 前",
+        "path": "/hair/front/deliberately_messy-looking/very_short.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_very_short",
+        "name": "刻意凌乱 非常短的 后",
+        "path": "/hair/back/deliberately_messy-looking/very_short.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_short",
+        "name": "刻意凌乱 较短的 前",
+        "path": "/hair/front/deliberately_messy-looking/short.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_short",
+        "name": "刻意凌乱 较短的 后",
+        "path": "/hair/back/deliberately_messy-looking/short.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_ear-length",
+        "name": "刻意凌乱 耳朵长度的 前",
+        "path": "/hair/front/deliberately_messy-looking/ear-length.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_ear-length",
+        "name": "刻意凌乱 耳朵长度的 后",
+        "path": "/hair/back/deliberately_messy-looking/ear-length.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_chin-length",
+        "name": "刻意凌乱 下巴长度的 前",
+        "path": "/hair/front/deliberately_messy-looking/chin-length.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_chin-length",
+        "name": "刻意凌乱 下巴长度的 后",
+        "path": "/hair/back/deliberately_messy-looking/chin-length.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_shoulder-length",
+        "name": "刻意凌乱 肩膀长度的 前",
+        "path": "/hair/front/deliberately_messy-looking/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_shoulder-length",
+        "name": "刻意凌乱 肩膀长度的 后",
+        "path": "/hair/back/deliberately_messy-looking/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_mid-back_length",
+        "name": "刻意凌乱 后背长度的 前",
+        "path": "/hair/front/deliberately_messy-looking/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_mid-back_length",
+        "name": "刻意凌乱 后背长度的 后",
+        "path": "/hair/back/deliberately_messy-looking/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_deliberately_messy-looking_waist-length",
+        "name": "刻意凌乱 及腰的 前",
+        "path": "/hair/front/deliberately_messy-looking/waist-length.png"
+      },
+      {
+        "key": "hair_back_deliberately_messy-looking_waist-length",
+        "name": "刻意凌乱 及腰的 后",
+        "path": "/hair/back/deliberately_messy-looking/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_neatly combed",
+    "name": "整齐",
+    "paths": [
+      {
+        "key": "hair_front_neatly_combed_close-cropped",
+        "name": "整齐 超短的 前",
+        "path": "/hair/front/neatly_combed/close-cropped.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_close-cropped",
+        "name": "整齐 超短的 后",
+        "path": "/hair/back/neatly_combed/close-cropped.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_very_short",
+        "name": "整齐 非常短的 前",
+        "path": "/hair/front/neatly_combed/very_short.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_very_short",
+        "name": "整齐 非常短的 后",
+        "path": "/hair/back/neatly_combed/very_short.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_short",
+        "name": "整齐 较短的 前",
+        "path": "/hair/front/neatly_combed/short.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_short",
+        "name": "整齐 较短的 后",
+        "path": "/hair/back/neatly_combed/short.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_ear-length",
+        "name": "整齐 耳朵长度的 前",
+        "path": "/hair/front/neatly_combed/ear-length.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_ear-length",
+        "name": "整齐 耳朵长度的 后",
+        "path": "/hair/back/neatly_combed/ear-length.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_chin-length",
+        "name": "整齐 下巴长度的 前",
+        "path": "/hair/front/neatly_combed/chin-length.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_chin-length",
+        "name": "整齐 下巴长度的 后",
+        "path": "/hair/back/neatly_combed/chin-length.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_shoulder-length",
+        "name": "整齐 肩膀长度的 前",
+        "path": "/hair/front/neatly_combed/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_shoulder-length",
+        "name": "整齐 肩膀长度的 后",
+        "path": "/hair/back/neatly_combed/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_mid-back_length",
+        "name": "整齐 后背长度的 前",
+        "path": "/hair/front/neatly_combed/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_mid-back_length",
+        "name": "整齐 后背长度的 后",
+        "path": "/hair/back/neatly_combed/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_neatly_combed_waist-length",
+        "name": "整齐 及腰的 前",
+        "path": "/hair/front/neatly_combed/waist-length.png"
+      },
+      {
+        "key": "hair_back_neatly_combed_waist-length",
+        "name": "整齐 及腰的 后",
+        "path": "/hair/back/neatly_combed/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_spiked",
+    "name": "刺头",
+    "paths": [
+      {
+        "key": "hair_front_spiked_close-cropped",
+        "name": "刺头 超短的 前",
+        "path": "/hair/front/spiked/close-cropped.png"
+      },
+      {
+        "key": "hair_back_spiked_close-cropped",
+        "name": "刺头 超短的 后",
+        "path": "/hair/back/spiked/close-cropped.png"
+      },
+      {
+        "key": "hair_front_spiked_very_short",
+        "name": "刺头 非常短的 前",
+        "path": "/hair/front/spiked/very_short.png"
+      },
+      {
+        "key": "hair_back_spiked_very_short",
+        "name": "刺头 非常短的 后",
+        "path": "/hair/back/spiked/very_short.png"
+      },
+      {
+        "key": "hair_front_spiked_short",
+        "name": "刺头 较短的 前",
+        "path": "/hair/front/spiked/short.png"
+      },
+      {
+        "key": "hair_back_spiked_short",
+        "name": "刺头 较短的 后",
+        "path": "/hair/back/spiked/short.png"
+      },
+      {
+        "key": "hair_front_spiked_ear-length",
+        "name": "刺头 耳朵长度的 前",
+        "path": "/hair/front/spiked/ear-length.png"
+      },
+      {
+        "key": "hair_back_spiked_ear-length",
+        "name": "刺头 耳朵长度的 后",
+        "path": "/hair/back/spiked/ear-length.png"
+      },
+      {
+        "key": "hair_front_spiked_chin-length",
+        "name": "刺头 下巴长度的 前",
+        "path": "/hair/front/spiked/chin-length.png"
+      },
+      {
+        "key": "hair_back_spiked_chin-length",
+        "name": "刺头 下巴长度的 后",
+        "path": "/hair/back/spiked/chin-length.png"
+      },
+      {
+        "key": "hair_front_spiked_shoulder-length",
+        "name": "刺头 肩膀长度的 前",
+        "path": "/hair/front/spiked/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_spiked_shoulder-length",
+        "name": "刺头 肩膀长度的 后",
+        "path": "/hair/back/spiked/shoulder-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_lifted into a quiff at the top with shaved sides",
+    "name": "飞机头",
+    "paths": [
+      {
+        "key": "hair_front_lifted_into_a_quiff_at_the_top_with_shaved_sides_close-cropped",
+        "name": "飞机头 超短的 前",
+        "path": "/hair/front/lifted_into_a_quiff_at_the_top_with_shaved_sides/close-cropped.png"
+      },
+      {
+        "key": "hair_back_lifted_into_a_quiff_at_the_top_with_shaved_sides_close-cropped",
+        "name": "飞机头 超短的 后",
+        "path": "/hair/back/lifted_into_a_quiff_at_the_top_with_shaved_sides/close-cropped.png"
+      },
+      {
+        "key": "hair_front_lifted_into_a_quiff_at_the_top_with_shaved_sides_very_short",
+        "name": "飞机头 非常短的 前",
+        "path": "/hair/front/lifted_into_a_quiff_at_the_top_with_shaved_sides/very_short.png"
+      },
+      {
+        "key": "hair_back_lifted_into_a_quiff_at_the_top_with_shaved_sides_very_short",
+        "name": "飞机头 非常短的 后",
+        "path": "/hair/back/lifted_into_a_quiff_at_the_top_with_shaved_sides/very_short.png"
+      },
+      {
+        "key": "hair_front_lifted_into_a_quiff_at_the_top_with_shaved_sides_short",
+        "name": "飞机头 较短的 前",
+        "path": "/hair/front/lifted_into_a_quiff_at_the_top_with_shaved_sides/short.png"
+      },
+      {
+        "key": "hair_back_lifted_into_a_quiff_at_the_top_with_shaved_sides_short",
+        "name": "飞机头 较短的 后",
+        "path": "/hair/back/lifted_into_a_quiff_at_the_top_with_shaved_sides/short.png"
+      },
+      {
+        "key": "hair_front_lifted_into_a_quiff_at_the_top_with_shaved_sides_ear-length",
+        "name": "飞机头 耳朵长度的 前",
+        "path": "/hair/front/lifted_into_a_quiff_at_the_top_with_shaved_sides/ear-length.png"
+      },
+      {
+        "key": "hair_back_lifted_into_a_quiff_at_the_top_with_shaved_sides_ear-length",
+        "name": "飞机头 耳朵长度的 后",
+        "path": "/hair/back/lifted_into_a_quiff_at_the_top_with_shaved_sides/ear-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a bun",
+    "name": "丸子头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_bun_short",
+        "name": "丸子头 较短的 前",
+        "path": "/hair/front/in_a_bun/short.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_short",
+        "name": "丸子头 较短的 后",
+        "path": "/hair/back/in_a_bun/short.png"
+      },
+      {
+        "key": "hair_front_in_a_bun_ear-length",
+        "name": "丸子头 耳朵长度的 前",
+        "path": "/hair/front/in_a_bun/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_ear-length",
+        "name": "丸子头 耳朵长度的 后",
+        "path": "/hair/back/in_a_bun/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_bun_chin-length",
+        "name": "丸子头 下巴长度的 前",
+        "path": "/hair/front/in_a_bun/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_chin-length",
+        "name": "丸子头 下巴长度的 后",
+        "path": "/hair/back/in_a_bun/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_bun_shoulder-length",
+        "name": "丸子头 肩膀长度的 前",
+        "path": "/hair/front/in_a_bun/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_shoulder-length",
+        "name": "丸子头 肩膀长度的 后",
+        "path": "/hair/back/in_a_bun/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_bun_mid-back_length",
+        "name": "丸子头 后背长度的 前",
+        "path": "/hair/front/in_a_bun/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_mid-back_length",
+        "name": "丸子头 后背长度的 后",
+        "path": "/hair/back/in_a_bun/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_bun_waist-length",
+        "name": "丸子头 及腰的 前",
+        "path": "/hair/front/in_a_bun/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_bun_waist-length",
+        "name": "丸子头 及腰的 后",
+        "path": "/hair/back/in_a_bun/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_piled on top in a scruffy bun",
+    "name": "单马尾",
+    "paths": [
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_short",
+        "name": "单马尾 较短的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/short.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_short",
+        "name": "单马尾 较短的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/short.png"
+      },
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_ear-length",
+        "name": "单马尾 耳朵长度的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/ear-length.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_ear-length",
+        "name": "单马尾 耳朵长度的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/ear-length.png"
+      },
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_chin-length",
+        "name": "单马尾 下巴长度的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/chin-length.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_chin-length",
+        "name": "单马尾 下巴长度的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/chin-length.png"
+      },
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_shoulder-length",
+        "name": "单马尾 肩膀长度的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_shoulder-length",
+        "name": "单马尾 肩膀长度的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_mid-back_length",
+        "name": "单马尾 后背长度的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_mid-back_length",
+        "name": "单马尾 后背长度的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_piled_on_top_in_a_scruffy_bun_waist-length",
+        "name": "单马尾 及腰的 前",
+        "path": "/hair/front/piled_on_top_in_a_scruffy_bun/waist-length.png"
+      },
+      {
+        "key": "hair_back_piled_on_top_in_a_scruffy_bun_waist-length",
+        "name": "单马尾 及腰的 后",
+        "path": "/hair/back/piled_on_top_in_a_scruffy_bun/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_drawn back in a ponytail",
+    "name": "半扎马尾",
+    "paths": [
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_short",
+        "name": "半扎马尾 较短的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/short.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_short",
+        "name": "半扎马尾 较短的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/short.png"
+      },
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_ear-length",
+        "name": "半扎马尾 耳朵长度的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/ear-length.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_ear-length",
+        "name": "半扎马尾 耳朵长度的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/ear-length.png"
+      },
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_chin-length",
+        "name": "半扎马尾 下巴长度的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/chin-length.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_chin-length",
+        "name": "半扎马尾 下巴长度的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/chin-length.png"
+      },
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_shoulder-length",
+        "name": "半扎马尾 肩膀长度的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_shoulder-length",
+        "name": "半扎马尾 肩膀长度的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_mid-back_length",
+        "name": "半扎马尾 后背长度的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_mid-back_length",
+        "name": "半扎马尾 后背长度的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_drawn_back_in_a_ponytail_waist-length",
+        "name": "半扎马尾 及腰的 前",
+        "path": "/hair/front/drawn_back_in_a_ponytail/waist-length.png"
+      },
+      {
+        "key": "hair_back_drawn_back_in_a_ponytail_waist-length",
+        "name": "半扎马尾 及腰的 后",
+        "path": "/hair/back/drawn_back_in_a_ponytail/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_half drawn back in a ponytail with the rest hanging freely",
+    "name": "半扎马尾",
+    "paths": [
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_short",
+        "name": "半扎马尾 较短的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/short.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_short",
+        "name": "半扎马尾 较短的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/short.png"
+      },
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_ear-length",
+        "name": "半扎马尾 耳朵长度的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/ear-length.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_ear-length",
+        "name": "半扎马尾 耳朵长度的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/ear-length.png"
+      },
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_chin-length",
+        "name": "半扎马尾 下巴长度的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/chin-length.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_chin-length",
+        "name": "半扎马尾 下巴长度的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/chin-length.png"
+      },
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_shoulder-length",
+        "name": "半扎马尾 肩膀长度的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_shoulder-length",
+        "name": "半扎马尾 肩膀长度的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_mid-back_length",
+        "name": "半扎马尾 后背长度的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_mid-back_length",
+        "name": "半扎马尾 后背长度的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_waist-length",
+        "name": "半扎马尾 及腰的 前",
+        "path": "/hair/front/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/waist-length.png"
+      },
+      {
+        "key": "hair_back_half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely_waist-length",
+        "name": "半扎马尾 及腰的 后",
+        "path": "/hair/back/half_drawn_back_in_a_ponytail_with_the_rest_hanging_freely/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_styled into twin tails",
+    "name": "双马尾",
+    "paths": [
+      {
+        "key": "hair_front_styled_into_twin_tails_short",
+        "name": "双马尾 较短的 前",
+        "path": "/hair/front/styled_into_twin_tails/short.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_short",
+        "name": "双马尾 较短的 后",
+        "path": "/hair/back/styled_into_twin_tails/short.png"
+      },
+      {
+        "key": "hair_front_styled_into_twin_tails_ear-length",
+        "name": "双马尾 耳朵长度的 前",
+        "path": "/hair/front/styled_into_twin_tails/ear-length.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_ear-length",
+        "name": "双马尾 耳朵长度的 后",
+        "path": "/hair/back/styled_into_twin_tails/ear-length.png"
+      },
+      {
+        "key": "hair_front_styled_into_twin_tails_chin-length",
+        "name": "双马尾 下巴长度的 前",
+        "path": "/hair/front/styled_into_twin_tails/chin-length.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_chin-length",
+        "name": "双马尾 下巴长度的 后",
+        "path": "/hair/back/styled_into_twin_tails/chin-length.png"
+      },
+      {
+        "key": "hair_front_styled_into_twin_tails_shoulder-length",
+        "name": "双马尾 肩膀长度的 前",
+        "path": "/hair/front/styled_into_twin_tails/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_shoulder-length",
+        "name": "双马尾 肩膀长度的 后",
+        "path": "/hair/back/styled_into_twin_tails/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_styled_into_twin_tails_mid-back_length",
+        "name": "双马尾 后背长度的 前",
+        "path": "/hair/front/styled_into_twin_tails/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_mid-back_length",
+        "name": "双马尾 后背长度的 后",
+        "path": "/hair/back/styled_into_twin_tails/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_styled_into_twin_tails_waist-length",
+        "name": "双马尾 及腰的 前",
+        "path": "/hair/front/styled_into_twin_tails/waist-length.png"
+      },
+      {
+        "key": "hair_back_styled_into_twin_tails_waist-length",
+        "name": "双马尾 及腰的 后",
+        "path": "/hair/back/styled_into_twin_tails/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a thick French braid",
+    "name": "法式粗辫",
+    "paths": [
+      {
+        "key": "hair_front_in_a_thick_French_braid_chin-length",
+        "name": "法式粗辫 下巴长度的 前",
+        "path": "/hair/front/in_a_thick_French_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_thick_French_braid_chin-length",
+        "name": "法式粗辫 下巴长度的 后",
+        "path": "/hair/back/in_a_thick_French_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_thick_French_braid_shoulder-length",
+        "name": "法式粗辫 肩膀长度的 前",
+        "path": "/hair/front/in_a_thick_French_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_thick_French_braid_shoulder-length",
+        "name": "法式粗辫 肩膀长度的 后",
+        "path": "/hair/back/in_a_thick_French_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_thick_French_braid_mid-back_length",
+        "name": "法式粗辫 后背长度的 前",
+        "path": "/hair/front/in_a_thick_French_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_thick_French_braid_mid-back_length",
+        "name": "法式粗辫 后背长度的 后",
+        "path": "/hair/back/in_a_thick_French_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_thick_French_braid_waist-length",
+        "name": "法式粗辫 及腰的 前",
+        "path": "/hair/front/in_a_thick_French_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_thick_French_braid_waist-length",
+        "name": "法式粗辫 及腰的 后",
+        "path": "/hair/back/in_a_thick_French_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in an artful rope braid",
+    "name": "绳编辫",
+    "paths": [
+      {
+        "key": "hair_front_in_an_artful_rope_braid_short",
+        "name": "绳编辫 较短的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/short.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_short",
+        "name": "绳编辫 较短的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/short.png"
+      },
+      {
+        "key": "hair_front_in_an_artful_rope_braid_ear-length",
+        "name": "绳编辫 耳朵长度的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_ear-length",
+        "name": "绳编辫 耳朵长度的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_an_artful_rope_braid_chin-length",
+        "name": "绳编辫 下巴长度的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_chin-length",
+        "name": "绳编辫 下巴长度的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_an_artful_rope_braid_shoulder-length",
+        "name": "绳编辫 肩膀长度的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_shoulder-length",
+        "name": "绳编辫 肩膀长度的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_an_artful_rope_braid_mid-back_length",
+        "name": "绳编辫 后背长度的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_mid-back_length",
+        "name": "绳编辫 后背长度的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_an_artful_rope_braid_waist-length",
+        "name": "绳编辫 及腰的 前",
+        "path": "/hair/front/in_an_artful_rope_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_an_artful_rope_braid_waist-length",
+        "name": "绳编辫 及腰的 后",
+        "path": "/hair/back/in_an_artful_rope_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_arranged in an intricate crown braid",
+    "name": "盘发",
+    "paths": [
+      {
+        "key": "hair_front_arranged_in_an_intricate_crown_braid_chin-length",
+        "name": "盘发 下巴长度的 前",
+        "path": "/hair/front/arranged_in_an_intricate_crown_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_arranged_in_an_intricate_crown_braid_chin-length",
+        "name": "盘发 下巴长度的 后",
+        "path": "/hair/back/arranged_in_an_intricate_crown_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_arranged_in_an_intricate_crown_braid_shoulder-length",
+        "name": "盘发 肩膀长度的 前",
+        "path": "/hair/front/arranged_in_an_intricate_crown_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_arranged_in_an_intricate_crown_braid_shoulder-length",
+        "name": "盘发 肩膀长度的 后",
+        "path": "/hair/back/arranged_in_an_intricate_crown_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_arranged_in_an_intricate_crown_braid_mid-back_length",
+        "name": "盘发 后背长度的 前",
+        "path": "/hair/front/arranged_in_an_intricate_crown_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_arranged_in_an_intricate_crown_braid_mid-back_length",
+        "name": "盘发 后背长度的 后",
+        "path": "/hair/back/arranged_in_an_intricate_crown_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_arranged_in_an_intricate_crown_braid_waist-length",
+        "name": "盘发 及腰的 前",
+        "path": "/hair/front/arranged_in_an_intricate_crown_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_arranged_in_an_intricate_crown_braid_waist-length",
+        "name": "盘发 及腰的 后",
+        "path": "/hair/back/arranged_in_an_intricate_crown_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_draped in an artful waterfall braid",
+    "name": "瀑布编发",
+    "paths": [
+      {
+        "key": "hair_front_draped_in_an_artful_waterfall_braid_ear-length",
+        "name": "瀑布编发 耳朵长度的 前",
+        "path": "/hair/front/draped_in_an_artful_waterfall_braid/ear-length.png"
+      },
+      {
+        "key": "hair_back_draped_in_an_artful_waterfall_braid_ear-length",
+        "name": "瀑布编发 耳朵长度的 后",
+        "path": "/hair/back/draped_in_an_artful_waterfall_braid/ear-length.png"
+      },
+      {
+        "key": "hair_front_draped_in_an_artful_waterfall_braid_chin-length",
+        "name": "瀑布编发 下巴长度的 前",
+        "path": "/hair/front/draped_in_an_artful_waterfall_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_draped_in_an_artful_waterfall_braid_chin-length",
+        "name": "瀑布编发 下巴长度的 后",
+        "path": "/hair/back/draped_in_an_artful_waterfall_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_draped_in_an_artful_waterfall_braid_shoulder-length",
+        "name": "瀑布编发 肩膀长度的 前",
+        "path": "/hair/front/draped_in_an_artful_waterfall_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_draped_in_an_artful_waterfall_braid_shoulder-length",
+        "name": "瀑布编发 肩膀长度的 后",
+        "path": "/hair/back/draped_in_an_artful_waterfall_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_draped_in_an_artful_waterfall_braid_mid-back_length",
+        "name": "瀑布编发 后背长度的 前",
+        "path": "/hair/front/draped_in_an_artful_waterfall_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_draped_in_an_artful_waterfall_braid_mid-back_length",
+        "name": "瀑布编发 后背长度的 后",
+        "path": "/hair/back/draped_in_an_artful_waterfall_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_draped_in_an_artful_waterfall_braid_waist-length",
+        "name": "瀑布编发 及腰的 前",
+        "path": "/hair/front/draped_in_an_artful_waterfall_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_draped_in_an_artful_waterfall_braid_waist-length",
+        "name": "瀑布编发 及腰的 后",
+        "path": "/hair/back/draped_in_an_artful_waterfall_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_hanging in a single braid",
+    "name": "单辫",
+    "paths": [
+      {
+        "key": "hair_front_hanging_in_a_single_braid_short",
+        "name": "单辫 较短的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/short.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_short",
+        "name": "单辫 较短的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/short.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_single_braid_ear-length",
+        "name": "单辫 耳朵长度的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/ear-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_ear-length",
+        "name": "单辫 耳朵长度的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/ear-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_single_braid_chin-length",
+        "name": "单辫 下巴长度的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_chin-length",
+        "name": "单辫 下巴长度的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_single_braid_shoulder-length",
+        "name": "单辫 肩膀长度的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_shoulder-length",
+        "name": "单辫 肩膀长度的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_single_braid_mid-back_length",
+        "name": "单辫 后背长度的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_mid-back_length",
+        "name": "单辫 后背长度的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_single_braid_waist-length",
+        "name": "单辫 及腰的 前",
+        "path": "/hair/front/hanging_in_a_single_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_single_braid_waist-length",
+        "name": "单辫 及腰的 后",
+        "path": "/hair/back/hanging_in_a_single_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_hanging in a pair of braids",
+    "name": "双辫",
+    "paths": [
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_short",
+        "name": "双辫 较短的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/short.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_short",
+        "name": "双辫 较短的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/short.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_ear-length",
+        "name": "双辫 耳朵长度的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/ear-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_ear-length",
+        "name": "双辫 耳朵长度的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/ear-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_chin-length",
+        "name": "双辫 下巴长度的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/chin-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_chin-length",
+        "name": "双辫 下巴长度的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/chin-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_shoulder-length",
+        "name": "双辫 肩膀长度的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_shoulder-length",
+        "name": "双辫 肩膀长度的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_mid-back_length",
+        "name": "双辫 后背长度的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_mid-back_length",
+        "name": "双辫 后背长度的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_a_pair_of_braids_waist-length",
+        "name": "双辫 及腰的 前",
+        "path": "/hair/front/hanging_in_a_pair_of_braids/waist-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_a_pair_of_braids_waist-length",
+        "name": "双辫 及腰的 后",
+        "path": "/hair/back/hanging_in_a_pair_of_braids/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_hanging in numerous braids",
+    "name": "全头编发",
+    "paths": [
+      {
+        "key": "hair_front_hanging_in_numerous_braids_short",
+        "name": "全头编发 较短的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/short.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_short",
+        "name": "全头编发 较短的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/short.png"
+      },
+      {
+        "key": "hair_front_hanging_in_numerous_braids_ear-length",
+        "name": "全头编发 耳朵长度的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/ear-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_ear-length",
+        "name": "全头编发 耳朵长度的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/ear-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_numerous_braids_chin-length",
+        "name": "全头编发 下巴长度的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/chin-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_chin-length",
+        "name": "全头编发 下巴长度的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/chin-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_numerous_braids_shoulder-length",
+        "name": "全头编发 肩膀长度的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_shoulder-length",
+        "name": "全头编发 肩膀长度的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_numerous_braids_mid-back_length",
+        "name": "全头编发 后背长度的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_mid-back_length",
+        "name": "全头编发 后背长度的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_numerous_braids_waist-length",
+        "name": "全头编发 及腰的 前",
+        "path": "/hair/front/hanging_in_numerous_braids/waist-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_numerous_braids_waist-length",
+        "name": "全头编发 及腰的 后",
+        "path": "/hair/back/hanging_in_numerous_braids/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in pigtails",
+    "name": "细辫",
+    "paths": [
+      {
+        "key": "hair_front_in_pigtails_short",
+        "name": "细辫 较短的 前",
+        "path": "/hair/front/in_pigtails/short.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_short",
+        "name": "细辫 较短的 后",
+        "path": "/hair/back/in_pigtails/short.png"
+      },
+      {
+        "key": "hair_front_in_pigtails_ear-length",
+        "name": "细辫 耳朵长度的 前",
+        "path": "/hair/front/in_pigtails/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_ear-length",
+        "name": "细辫 耳朵长度的 后",
+        "path": "/hair/back/in_pigtails/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_pigtails_chin-length",
+        "name": "细辫 下巴长度的 前",
+        "path": "/hair/front/in_pigtails/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_chin-length",
+        "name": "细辫 下巴长度的 后",
+        "path": "/hair/back/in_pigtails/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_pigtails_shoulder-length",
+        "name": "细辫 肩膀长度的 前",
+        "path": "/hair/front/in_pigtails/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_shoulder-length",
+        "name": "细辫 肩膀长度的 后",
+        "path": "/hair/back/in_pigtails/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_pigtails_mid-back_length",
+        "name": "细辫 后背长度的 前",
+        "path": "/hair/front/in_pigtails/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_mid-back_length",
+        "name": "细辫 后背长度的 后",
+        "path": "/hair/back/in_pigtails/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_pigtails_waist-length",
+        "name": "细辫 及腰的 前",
+        "path": "/hair/front/in_pigtails/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_pigtails_waist-length",
+        "name": "细辫 及腰的 后",
+        "path": "/hair/back/in_pigtails/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_buzzed short",
+    "name": "圆寸",
+    "paths": [
+      {
+        "key": "hair_front_buzzed_short_close-cropped",
+        "name": "圆寸 超短的 前",
+        "path": "/hair/front/buzzed_short/close-cropped.png"
+      },
+      {
+        "key": "hair_back_buzzed_short_close-cropped",
+        "name": "圆寸 超短的 后",
+        "path": "/hair/back/buzzed_short/close-cropped.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_shaved smooth",
+    "name": "光头",
+    "paths": [
+      {
+        "key": "hair_front_shaved_smooth_close-cropped",
+        "name": "光头 超短的 前",
+        "path": "/hair/front/shaved_smooth/close-cropped.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_close-cropped",
+        "name": "光头 超短的 后",
+        "path": "/hair/back/shaved_smooth/close-cropped.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_very_short",
+        "name": "光头 非常短的 前",
+        "path": "/hair/front/shaved_smooth/very_short.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_very_short",
+        "name": "光头 非常短的 后",
+        "path": "/hair/back/shaved_smooth/very_short.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_short",
+        "name": "光头 较短的 前",
+        "path": "/hair/front/shaved_smooth/short.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_short",
+        "name": "光头 较短的 后",
+        "path": "/hair/back/shaved_smooth/short.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_ear-length",
+        "name": "光头 耳朵长度的 前",
+        "path": "/hair/front/shaved_smooth/ear-length.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_ear-length",
+        "name": "光头 耳朵长度的 后",
+        "path": "/hair/back/shaved_smooth/ear-length.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_chin-length",
+        "name": "光头 下巴长度的 前",
+        "path": "/hair/front/shaved_smooth/chin-length.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_chin-length",
+        "name": "光头 下巴长度的 后",
+        "path": "/hair/back/shaved_smooth/chin-length.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_shoulder-length",
+        "name": "光头 肩膀长度的 前",
+        "path": "/hair/front/shaved_smooth/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_shoulder-length",
+        "name": "光头 肩膀长度的 后",
+        "path": "/hair/back/shaved_smooth/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_mid-back_length",
+        "name": "光头 后背长度的 前",
+        "path": "/hair/front/shaved_smooth/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_mid-back_length",
+        "name": "光头 后背长度的 后",
+        "path": "/hair/back/shaved_smooth/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_shaved_smooth_waist-length",
+        "name": "光头 及腰的 前",
+        "path": "/hair/front/shaved_smooth/waist-length.png"
+      },
+      {
+        "key": "hair_back_shaved_smooth_waist-length",
+        "name": "光头 及腰的 后",
+        "path": "/hair/back/shaved_smooth/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a mohawk",
+    "name": "莫西干头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_mohawk_close-cropped",
+        "name": "莫西干头 超短的 前",
+        "path": "/hair/front/in_a_mohawk/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_close-cropped",
+        "name": "莫西干头 超短的 后",
+        "path": "/hair/back/in_a_mohawk/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_very_short",
+        "name": "莫西干头 非常短的 前",
+        "path": "/hair/front/in_a_mohawk/very_short.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_very_short",
+        "name": "莫西干头 非常短的 后",
+        "path": "/hair/back/in_a_mohawk/very_short.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_short",
+        "name": "莫西干头 较短的 前",
+        "path": "/hair/front/in_a_mohawk/short.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_short",
+        "name": "莫西干头 较短的 后",
+        "path": "/hair/back/in_a_mohawk/short.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_ear-length",
+        "name": "莫西干头 耳朵长度的 前",
+        "path": "/hair/front/in_a_mohawk/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_ear-length",
+        "name": "莫西干头 耳朵长度的 后",
+        "path": "/hair/back/in_a_mohawk/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_chin-length",
+        "name": "莫西干头 下巴长度的 前",
+        "path": "/hair/front/in_a_mohawk/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_chin-length",
+        "name": "莫西干头 下巴长度的 后",
+        "path": "/hair/back/in_a_mohawk/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_shoulder-length",
+        "name": "莫西干头 肩膀长度的 前",
+        "path": "/hair/front/in_a_mohawk/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_shoulder-length",
+        "name": "莫西干头 肩膀长度的 后",
+        "path": "/hair/back/in_a_mohawk/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_mid-back_length",
+        "name": "莫西干头 后背长度的 前",
+        "path": "/hair/front/in_a_mohawk/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_mid-back_length",
+        "name": "莫西干头 后背长度的 后",
+        "path": "/hair/back/in_a_mohawk/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_mohawk_waist-length",
+        "name": "莫西干头 及腰的 前",
+        "path": "/hair/front/in_a_mohawk/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_mohawk_waist-length",
+        "name": "莫西干头 及腰的 后",
+        "path": "/hair/back/in_a_mohawk/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a fauxhawk",
+    "name": "假莫西干头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_fauxhawk_close-cropped",
+        "name": "假莫西干头 超短的 前",
+        "path": "/hair/front/in_a_fauxhawk/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_close-cropped",
+        "name": "假莫西干头 超短的 后",
+        "path": "/hair/back/in_a_fauxhawk/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_very_short",
+        "name": "假莫西干头 非常短的 前",
+        "path": "/hair/front/in_a_fauxhawk/very_short.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_very_short",
+        "name": "假莫西干头 非常短的 后",
+        "path": "/hair/back/in_a_fauxhawk/very_short.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_short",
+        "name": "假莫西干头 较短的 前",
+        "path": "/hair/front/in_a_fauxhawk/short.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_short",
+        "name": "假莫西干头 较短的 后",
+        "path": "/hair/back/in_a_fauxhawk/short.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_ear-length",
+        "name": "假莫西干头 耳朵长度的 前",
+        "path": "/hair/front/in_a_fauxhawk/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_ear-length",
+        "name": "假莫西干头 耳朵长度的 后",
+        "path": "/hair/back/in_a_fauxhawk/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_chin-length",
+        "name": "假莫西干头 下巴长度的 前",
+        "path": "/hair/front/in_a_fauxhawk/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_chin-length",
+        "name": "假莫西干头 下巴长度的 后",
+        "path": "/hair/back/in_a_fauxhawk/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_shoulder-length",
+        "name": "假莫西干头 肩膀长度的 前",
+        "path": "/hair/front/in_a_fauxhawk/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_shoulder-length",
+        "name": "假莫西干头 肩膀长度的 后",
+        "path": "/hair/back/in_a_fauxhawk/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_mid-back_length",
+        "name": "假莫西干头 后背长度的 前",
+        "path": "/hair/front/in_a_fauxhawk/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_mid-back_length",
+        "name": "假莫西干头 后背长度的 后",
+        "path": "/hair/back/in_a_fauxhawk/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_fauxhawk_waist-length",
+        "name": "假莫西干头 及腰的 前",
+        "path": "/hair/front/in_a_fauxhawk/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_fauxhawk_waist-length",
+        "name": "假莫西干头 及腰的 后",
+        "path": "/hair/back/in_a_fauxhawk/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_business in the front but a party in the back",
+    "name": "鲻鱼头",
+    "paths": [
+      {
+        "key": "hair_front_business_in_the_front_but_a_party_in_the_back_chin-length",
+        "name": "鲻鱼头 下巴长度的 前",
+        "path": "/hair/front/business_in_the_front_but_a_party_in_the_back/chin-length.png"
+      },
+      {
+        "key": "hair_back_business_in_the_front_but_a_party_in_the_back_chin-length",
+        "name": "鲻鱼头 下巴长度的 后",
+        "path": "/hair/back/business_in_the_front_but_a_party_in_the_back/chin-length.png"
+      },
+      {
+        "key": "hair_front_business_in_the_front_but_a_party_in_the_back_shoulder-length",
+        "name": "鲻鱼头 肩膀长度的 前",
+        "path": "/hair/front/business_in_the_front_but_a_party_in_the_back/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_business_in_the_front_but_a_party_in_the_back_shoulder-length",
+        "name": "鲻鱼头 肩膀长度的 后",
+        "path": "/hair/back/business_in_the_front_but_a_party_in_the_back/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_business_in_the_front_but_a_party_in_the_back_mid-back_length",
+        "name": "鲻鱼头 后背长度的 前",
+        "path": "/hair/front/business_in_the_front_but_a_party_in_the_back/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_business_in_the_front_but_a_party_in_the_back_mid-back_length",
+        "name": "鲻鱼头 后背长度的 后",
+        "path": "/hair/back/business_in_the_front_but_a_party_in_the_back/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_business_in_the_front_but_a_party_in_the_back_waist-length",
+        "name": "鲻鱼头 及腰的 前",
+        "path": "/hair/front/business_in_the_front_but_a_party_in_the_back/waist-length.png"
+      },
+      {
+        "key": "hair_back_business_in_the_front_but_a_party_in_the_back_waist-length",
+        "name": "鲻鱼头 及腰的 后",
+        "path": "/hair/back/business_in_the_front_but_a_party_in_the_back/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_neatly trimmed with a flat top",
+    "name": "平头",
+    "paths": []
+  },
+  {
+    "key": "hair_in a neatly trimmed crew cut",
+    "name": "毛寸",
+    "paths": []
+  },
+  {
+    "key": "hair_swept to the side",
+    "name": "侧分",
+    "paths": [
+      {
+        "key": "hair_front_swept_to_the_side_short",
+        "name": "侧分 较短的 前",
+        "path": "/hair/front/swept_to_the_side/short.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_short",
+        "name": "侧分 较短的 后",
+        "path": "/hair/back/swept_to_the_side/short.png"
+      },
+      {
+        "key": "hair_front_swept_to_the_side_ear-length",
+        "name": "侧分 耳朵长度的 前",
+        "path": "/hair/front/swept_to_the_side/ear-length.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_ear-length",
+        "name": "侧分 耳朵长度的 后",
+        "path": "/hair/back/swept_to_the_side/ear-length.png"
+      },
+      {
+        "key": "hair_front_swept_to_the_side_chin-length",
+        "name": "侧分 下巴长度的 前",
+        "path": "/hair/front/swept_to_the_side/chin-length.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_chin-length",
+        "name": "侧分 下巴长度的 后",
+        "path": "/hair/back/swept_to_the_side/chin-length.png"
+      },
+      {
+        "key": "hair_front_swept_to_the_side_shoulder-length",
+        "name": "侧分 肩膀长度的 前",
+        "path": "/hair/front/swept_to_the_side/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_shoulder-length",
+        "name": "侧分 肩膀长度的 后",
+        "path": "/hair/back/swept_to_the_side/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_swept_to_the_side_mid-back_length",
+        "name": "侧分 后背长度的 前",
+        "path": "/hair/front/swept_to_the_side/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_mid-back_length",
+        "name": "侧分 后背长度的 后",
+        "path": "/hair/back/swept_to_the_side/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_swept_to_the_side_waist-length",
+        "name": "侧分 及腰的 前",
+        "path": "/hair/front/swept_to_the_side/waist-length.png"
+      },
+      {
+        "key": "hair_back_swept_to_the_side_waist-length",
+        "name": "侧分 及腰的 后",
+        "path": "/hair/back/swept_to_the_side/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_loose and flowing",
+    "name": "飘逸中长发",
+    "paths": [
+      {
+        "key": "hair_front_loose_and_flowing_ear-length",
+        "name": "飘逸中长发 耳朵长度的 前",
+        "path": "/hair/front/loose_and_flowing/ear-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_flowing_ear-length",
+        "name": "飘逸中长发 耳朵长度的 后",
+        "path": "/hair/back/loose_and_flowing/ear-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_flowing_chin-length",
+        "name": "飘逸中长发 下巴长度的 前",
+        "path": "/hair/front/loose_and_flowing/chin-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_flowing_chin-length",
+        "name": "飘逸中长发 下巴长度的 后",
+        "path": "/hair/back/loose_and_flowing/chin-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_flowing_shoulder-length",
+        "name": "飘逸中长发 肩膀长度的 前",
+        "path": "/hair/front/loose_and_flowing/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_flowing_shoulder-length",
+        "name": "飘逸中长发 肩膀长度的 后",
+        "path": "/hair/back/loose_and_flowing/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_flowing_mid-back_length",
+        "name": "飘逸中长发 后背长度的 前",
+        "path": "/hair/front/loose_and_flowing/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_loose_and_flowing_mid-back_length",
+        "name": "飘逸中长发 后背长度的 后",
+        "path": "/hair/back/loose_and_flowing/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_loose_and_flowing_waist-length",
+        "name": "飘逸中长发 及腰的 前",
+        "path": "/hair/front/loose_and_flowing/waist-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_flowing_waist-length",
+        "name": "飘逸中长发 及腰的 后",
+        "path": "/hair/back/loose_and_flowing/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_slicked back",
+    "name": "背头",
+    "paths": [
+      {
+        "key": "hair_front_slicked_back_short",
+        "name": "背头 较短的 前",
+        "path": "/hair/front/slicked_back/short.png"
+      },
+      {
+        "key": "hair_back_slicked_back_short",
+        "name": "背头 较短的 后",
+        "path": "/hair/back/slicked_back/short.png"
+      },
+      {
+        "key": "hair_front_slicked_back_ear-length",
+        "name": "背头 耳朵长度的 前",
+        "path": "/hair/front/slicked_back/ear-length.png"
+      },
+      {
+        "key": "hair_back_slicked_back_ear-length",
+        "name": "背头 耳朵长度的 后",
+        "path": "/hair/back/slicked_back/ear-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a bowl cut",
+    "name": "锅盖头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_bowl_cut_close-cropped",
+        "name": "锅盖头 超短的 前",
+        "path": "/hair/front/in_a_bowl_cut/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_a_bowl_cut_close-cropped",
+        "name": "锅盖头 超短的 后",
+        "path": "/hair/back/in_a_bowl_cut/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_a_bowl_cut_very_short",
+        "name": "锅盖头 非常短的 前",
+        "path": "/hair/front/in_a_bowl_cut/very_short.png"
+      },
+      {
+        "key": "hair_back_in_a_bowl_cut_very_short",
+        "name": "锅盖头 非常短的 后",
+        "path": "/hair/back/in_a_bowl_cut/very_short.png"
+      },
+      {
+        "key": "hair_front_in_a_bowl_cut_short",
+        "name": "锅盖头 较短的 前",
+        "path": "/hair/front/in_a_bowl_cut/short.png"
+      },
+      {
+        "key": "hair_back_in_a_bowl_cut_short",
+        "name": "锅盖头 较短的 后",
+        "path": "/hair/back/in_a_bowl_cut/short.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_longer on top but undercut on both sides",
+    "name": "削边头",
+    "paths": [
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_short",
+        "name": "削边头 较短的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/short.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_short",
+        "name": "削边头 较短的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/short.png"
+      },
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_ear-length",
+        "name": "削边头 耳朵长度的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/ear-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_ear-length",
+        "name": "削边头 耳朵长度的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/ear-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_chin-length",
+        "name": "削边头 下巴长度的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/chin-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_chin-length",
+        "name": "削边头 下巴长度的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/chin-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_shoulder-length",
+        "name": "削边头 肩膀长度的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_shoulder-length",
+        "name": "削边头 肩膀长度的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_mid-back_length",
+        "name": "削边头 后背长度的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_mid-back_length",
+        "name": "削边头 后背长度的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_longer_on_top_but_undercut_on_both_sides_waist-length",
+        "name": "削边头 及腰的 前",
+        "path": "/hair/front/longer_on_top_but_undercut_on_both_sides/waist-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_top_but_undercut_on_both_sides_waist-length",
+        "name": "削边头 及腰的 后",
+        "path": "/hair/back/longer_on_top_but_undercut_on_both_sides/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_undercut on both sides with the rest pulled back into a ponytail",
+    "name": "削边马尾",
+    "paths": [
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_chin-length",
+        "name": "削边马尾 下巴长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/chin-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_chin-length",
+        "name": "削边马尾 下巴长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/chin-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_shoulder-length",
+        "name": "削边马尾 肩膀长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_shoulder-length",
+        "name": "削边马尾 肩膀长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_mid-back_length",
+        "name": "削边马尾 后背长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_mid-back_length",
+        "name": "削边马尾 后背长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_waist-length",
+        "name": "削边马尾 及腰的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/waist-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail_waist-length",
+        "name": "削边马尾 及腰的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_pulled_back_into_a_ponytail/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_undercut on both sides with the rest in a tight braid",
+    "name": "削边辫",
+    "paths": [
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_in_a_tight_braid_chin-length",
+        "name": "削边辫 下巴长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_in_a_tight_braid/chin-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_in_a_tight_braid_chin-length",
+        "name": "削边辫 下巴长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_in_a_tight_braid/chin-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_in_a_tight_braid_shoulder-length",
+        "name": "削边辫 肩膀长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_in_a_tight_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_in_a_tight_braid_shoulder-length",
+        "name": "削边辫 肩膀长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_in_a_tight_braid/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_in_a_tight_braid_mid-back_length",
+        "name": "削边辫 后背长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_in_a_tight_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_in_a_tight_braid_mid-back_length",
+        "name": "削边辫 后背长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_in_a_tight_braid/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_in_a_tight_braid_waist-length",
+        "name": "削边辫 及腰的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_in_a_tight_braid/waist-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_in_a_tight_braid_waist-length",
+        "name": "削边辫 及腰的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_in_a_tight_braid/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_undercut on both sides with the rest arranged into a topknot",
+    "name": "削边丸子头",
+    "paths": [
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_chin-length",
+        "name": "削边丸子头 下巴长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/chin-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_chin-length",
+        "name": "削边丸子头 下巴长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/chin-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_shoulder-length",
+        "name": "削边丸子头 肩膀长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_shoulder-length",
+        "name": "削边丸子头 肩膀长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_mid-back_length",
+        "name": "削边丸子头 后背长度的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_mid-back_length",
+        "name": "削边丸子头 后背长度的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_waist-length",
+        "name": "削边丸子头 及腰的 前",
+        "path": "/hair/front/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/waist-length.png"
+      },
+      {
+        "key": "hair_back_undercut_on_both_sides_with_the_rest_arranged_into_a_topknot_waist-length",
+        "name": "削边丸子头 及腰的 后",
+        "path": "/hair/back/undercut_on_both_sides_with_the_rest_arranged_into_a_topknot/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_longer on one side but undercut on the other",
+    "name": "不对称短发",
+    "paths": [
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_short",
+        "name": "不对称短发 较短的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/short.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_short",
+        "name": "不对称短发 较短的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/short.png"
+      },
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_ear-length",
+        "name": "不对称短发 耳朵长度的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/ear-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_ear-length",
+        "name": "不对称短发 耳朵长度的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/ear-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_chin-length",
+        "name": "不对称短发 下巴长度的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/chin-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_chin-length",
+        "name": "不对称短发 下巴长度的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/chin-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_shoulder-length",
+        "name": "不对称短发 肩膀长度的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_shoulder-length",
+        "name": "不对称短发 肩膀长度的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_mid-back_length",
+        "name": "不对称短发 后背长度的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_mid-back_length",
+        "name": "不对称短发 后背长度的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_longer_on_one_side_but_undercut_on_the_other_waist-length",
+        "name": "不对称短发 及腰的 前",
+        "path": "/hair/front/longer_on_one_side_but_undercut_on_the_other/waist-length.png"
+      },
+      {
+        "key": "hair_back_longer_on_one_side_but_undercut_on_the_other_waist-length",
+        "name": "不对称短发 及腰的 后",
+        "path": "/hair/back/longer_on_one_side_but_undercut_on_the_other/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_loose and shaggy",
+    "name": "乱蓬蓬的",
+    "paths": [
+      {
+        "key": "hair_front_loose_and_shaggy_ear-length",
+        "name": "乱蓬蓬的 耳朵长度的 前",
+        "path": "/hair/front/loose_and_shaggy/ear-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_shaggy_ear-length",
+        "name": "乱蓬蓬的 耳朵长度的 后",
+        "path": "/hair/back/loose_and_shaggy/ear-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_shaggy_chin-length",
+        "name": "乱蓬蓬的 下巴长度的 前",
+        "path": "/hair/front/loose_and_shaggy/chin-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_shaggy_chin-length",
+        "name": "乱蓬蓬的 下巴长度的 后",
+        "path": "/hair/back/loose_and_shaggy/chin-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_shaggy_shoulder-length",
+        "name": "乱蓬蓬的 肩膀长度的 前",
+        "path": "/hair/front/loose_and_shaggy/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_shaggy_shoulder-length",
+        "name": "乱蓬蓬的 肩膀长度的 后",
+        "path": "/hair/back/loose_and_shaggy/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_shaggy_mid-back_length",
+        "name": "乱蓬蓬的 后背长度的 前",
+        "path": "/hair/front/loose_and_shaggy/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_loose_and_shaggy_mid-back_length",
+        "name": "乱蓬蓬的 后背长度的 后",
+        "path": "/hair/back/loose_and_shaggy/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_loose_and_shaggy_waist-length",
+        "name": "乱蓬蓬的 及腰的 前",
+        "path": "/hair/front/loose_and_shaggy/waist-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_shaggy_waist-length",
+        "name": "乱蓬蓬的 及腰的 后",
+        "path": "/hair/back/loose_and_shaggy/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_straight with a sharp side-swept fringe",
+    "name": "有侧刘海的直发",
+    "paths": [
+      {
+        "key": "hair_front_straight_with_a_sharp_side-swept_fringe_ear-length",
+        "name": "有侧刘海的直发 耳朵长度的 前",
+        "path": "/hair/front/straight_with_a_sharp_side-swept_fringe/ear-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_sharp_side-swept_fringe_ear-length",
+        "name": "有侧刘海的直发 耳朵长度的 后",
+        "path": "/hair/back/straight_with_a_sharp_side-swept_fringe/ear-length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_sharp_side-swept_fringe_chin-length",
+        "name": "有侧刘海的直发 下巴长度的 前",
+        "path": "/hair/front/straight_with_a_sharp_side-swept_fringe/chin-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_sharp_side-swept_fringe_chin-length",
+        "name": "有侧刘海的直发 下巴长度的 后",
+        "path": "/hair/back/straight_with_a_sharp_side-swept_fringe/chin-length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_sharp_side-swept_fringe_shoulder-length",
+        "name": "有侧刘海的直发 肩膀长度的 前",
+        "path": "/hair/front/straight_with_a_sharp_side-swept_fringe/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_sharp_side-swept_fringe_shoulder-length",
+        "name": "有侧刘海的直发 肩膀长度的 后",
+        "path": "/hair/back/straight_with_a_sharp_side-swept_fringe/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_sharp_side-swept_fringe_mid-back_length",
+        "name": "有侧刘海的直发 后背长度的 前",
+        "path": "/hair/front/straight_with_a_sharp_side-swept_fringe/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_sharp_side-swept_fringe_mid-back_length",
+        "name": "有侧刘海的直发 后背长度的 后",
+        "path": "/hair/back/straight_with_a_sharp_side-swept_fringe/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_sharp_side-swept_fringe_waist-length",
+        "name": "有侧刘海的直发 及腰的 前",
+        "path": "/hair/front/straight_with_a_sharp_side-swept_fringe/waist-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_sharp_side-swept_fringe_waist-length",
+        "name": "有侧刘海的直发 及腰的 后",
+        "path": "/hair/back/straight_with_a_sharp_side-swept_fringe/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_loose and wavy",
+    "name": "蓬松波浪",
+    "paths": [
+      {
+        "key": "hair_front_loose_and_wavy_short",
+        "name": "蓬松波浪 较短的 前",
+        "path": "/hair/front/loose_and_wavy/short.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_short",
+        "name": "蓬松波浪 较短的 后",
+        "path": "/hair/back/loose_and_wavy/short.png"
+      },
+      {
+        "key": "hair_front_loose_and_wavy_ear-length",
+        "name": "蓬松波浪 耳朵长度的 前",
+        "path": "/hair/front/loose_and_wavy/ear-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_ear-length",
+        "name": "蓬松波浪 耳朵长度的 后",
+        "path": "/hair/back/loose_and_wavy/ear-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_wavy_chin-length",
+        "name": "蓬松波浪 下巴长度的 前",
+        "path": "/hair/front/loose_and_wavy/chin-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_chin-length",
+        "name": "蓬松波浪 下巴长度的 后",
+        "path": "/hair/back/loose_and_wavy/chin-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_wavy_shoulder-length",
+        "name": "蓬松波浪 肩膀长度的 前",
+        "path": "/hair/front/loose_and_wavy/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_shoulder-length",
+        "name": "蓬松波浪 肩膀长度的 后",
+        "path": "/hair/back/loose_and_wavy/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_wavy_mid-back_length",
+        "name": "蓬松波浪 后背长度的 前",
+        "path": "/hair/front/loose_and_wavy/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_mid-back_length",
+        "name": "蓬松波浪 后背长度的 后",
+        "path": "/hair/back/loose_and_wavy/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_loose_and_wavy_waist-length",
+        "name": "蓬松波浪 及腰的 前",
+        "path": "/hair/front/loose_and_wavy/waist-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_wavy_waist-length",
+        "name": "蓬松波浪 及腰的 后",
+        "path": "/hair/back/loose_and_wavy/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_loose and framing the face",
+    "name": "微卷",
+    "paths": [
+      {
+        "key": "hair_front_loose_and_framing_the_face_ear-length",
+        "name": "微卷 耳朵长度的 前",
+        "path": "/hair/front/loose_and_framing_the_face/ear-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_framing_the_face_ear-length",
+        "name": "微卷 耳朵长度的 后",
+        "path": "/hair/back/loose_and_framing_the_face/ear-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_framing_the_face_chin-length",
+        "name": "微卷 下巴长度的 前",
+        "path": "/hair/front/loose_and_framing_the_face/chin-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_framing_the_face_chin-length",
+        "name": "微卷 下巴长度的 后",
+        "path": "/hair/back/loose_and_framing_the_face/chin-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_framing_the_face_shoulder-length",
+        "name": "微卷 肩膀长度的 前",
+        "path": "/hair/front/loose_and_framing_the_face/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_framing_the_face_shoulder-length",
+        "name": "微卷 肩膀长度的 后",
+        "path": "/hair/back/loose_and_framing_the_face/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_loose_and_framing_the_face_mid-back_length",
+        "name": "微卷 后背长度的 前",
+        "path": "/hair/front/loose_and_framing_the_face/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_loose_and_framing_the_face_mid-back_length",
+        "name": "微卷 后背长度的 后",
+        "path": "/hair/back/loose_and_framing_the_face/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_loose_and_framing_the_face_waist-length",
+        "name": "微卷 及腰的 前",
+        "path": "/hair/front/loose_and_framing_the_face/waist-length.png"
+      },
+      {
+        "key": "hair_back_loose_and_framing_the_face_waist-length",
+        "name": "微卷 及腰的 后",
+        "path": "/hair/back/loose_and_framing_the_face/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_hanging in choppy layers",
+    "name": "高层次",
+    "paths": [
+      {
+        "key": "hair_front_hanging_in_choppy_layers_ear-length",
+        "name": "高层次 耳朵长度的 前",
+        "path": "/hair/front/hanging_in_choppy_layers/ear-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_choppy_layers_ear-length",
+        "name": "高层次 耳朵长度的 后",
+        "path": "/hair/back/hanging_in_choppy_layers/ear-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_choppy_layers_chin-length",
+        "name": "高层次 下巴长度的 前",
+        "path": "/hair/front/hanging_in_choppy_layers/chin-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_choppy_layers_chin-length",
+        "name": "高层次 下巴长度的 后",
+        "path": "/hair/back/hanging_in_choppy_layers/chin-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_choppy_layers_shoulder-length",
+        "name": "高层次 肩膀长度的 前",
+        "path": "/hair/front/hanging_in_choppy_layers/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_choppy_layers_shoulder-length",
+        "name": "高层次 肩膀长度的 后",
+        "path": "/hair/back/hanging_in_choppy_layers/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_choppy_layers_mid-back_length",
+        "name": "高层次 后背长度的 前",
+        "path": "/hair/front/hanging_in_choppy_layers/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_choppy_layers_mid-back_length",
+        "name": "高层次 后背长度的 后",
+        "path": "/hair/back/hanging_in_choppy_layers/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_hanging_in_choppy_layers_waist-length",
+        "name": "高层次 及腰的 前",
+        "path": "/hair/front/hanging_in_choppy_layers/waist-length.png"
+      },
+      {
+        "key": "hair_back_hanging_in_choppy_layers_waist-length",
+        "name": "高层次 及腰的 后",
+        "path": "/hair/back/hanging_in_choppy_layers/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_hanging free with blunt bangs",
+    "name": "齐刘海",
+    "paths": [
+      {
+        "key": "hair_front_hanging_free_with_blunt_bangs_ear-length",
+        "name": "齐刘海 耳朵长度的 前",
+        "path": "/hair/front/hanging_free_with_blunt_bangs/ear-length.png"
+      },
+      {
+        "key": "hair_back_hanging_free_with_blunt_bangs_ear-length",
+        "name": "齐刘海 耳朵长度的 后",
+        "path": "/hair/back/hanging_free_with_blunt_bangs/ear-length.png"
+      },
+      {
+        "key": "hair_front_hanging_free_with_blunt_bangs_chin-length",
+        "name": "齐刘海 下巴长度的 前",
+        "path": "/hair/front/hanging_free_with_blunt_bangs/chin-length.png"
+      },
+      {
+        "key": "hair_back_hanging_free_with_blunt_bangs_chin-length",
+        "name": "齐刘海 下巴长度的 后",
+        "path": "/hair/back/hanging_free_with_blunt_bangs/chin-length.png"
+      },
+      {
+        "key": "hair_front_hanging_free_with_blunt_bangs_shoulder-length",
+        "name": "齐刘海 肩膀长度的 前",
+        "path": "/hair/front/hanging_free_with_blunt_bangs/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_hanging_free_with_blunt_bangs_shoulder-length",
+        "name": "齐刘海 肩膀长度的 后",
+        "path": "/hair/back/hanging_free_with_blunt_bangs/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_hanging_free_with_blunt_bangs_mid-back_length",
+        "name": "齐刘海 后背长度的 前",
+        "path": "/hair/front/hanging_free_with_blunt_bangs/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_hanging_free_with_blunt_bangs_mid-back_length",
+        "name": "齐刘海 后背长度的 后",
+        "path": "/hair/back/hanging_free_with_blunt_bangs/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_hanging_free_with_blunt_bangs_waist-length",
+        "name": "齐刘海 及腰的 前",
+        "path": "/hair/front/hanging_free_with_blunt_bangs/waist-length.png"
+      },
+      {
+        "key": "hair_back_hanging_free_with_blunt_bangs_waist-length",
+        "name": "齐刘海 及腰的 后",
+        "path": "/hair/back/hanging_free_with_blunt_bangs/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a simple bob",
+    "name": "波波头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_simple_bob_short",
+        "name": "波波头 较短的 前",
+        "path": "/hair/front/in_a_simple_bob/short.png"
+      },
+      {
+        "key": "hair_back_in_a_simple_bob_short",
+        "name": "波波头 较短的 后",
+        "path": "/hair/back/in_a_simple_bob/short.png"
+      },
+      {
+        "key": "hair_front_in_a_simple_bob_ear-length",
+        "name": "波波头 耳朵长度的 前",
+        "path": "/hair/front/in_a_simple_bob/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_simple_bob_ear-length",
+        "name": "波波头 耳朵长度的 后",
+        "path": "/hair/back/in_a_simple_bob/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_simple_bob_chin-length",
+        "name": "波波头 下巴长度的 前",
+        "path": "/hair/front/in_a_simple_bob/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_simple_bob_chin-length",
+        "name": "波波头 下巴长度的 后",
+        "path": "/hair/back/in_a_simple_bob/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_simple_bob_shoulder-length",
+        "name": "波波头 肩膀长度的 前",
+        "path": "/hair/front/in_a_simple_bob/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_simple_bob_shoulder-length",
+        "name": "波波头 肩膀长度的 后",
+        "path": "/hair/back/in_a_simple_bob/shoulder-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a pixie cut",
+    "name": "精灵短发",
+    "paths": [
+      {
+        "key": "hair_front_in_a_pixie_cut_short",
+        "name": "精灵短发 较短的 前",
+        "path": "/hair/front/in_a_pixie_cut/short.png"
+      },
+      {
+        "key": "hair_back_in_a_pixie_cut_short",
+        "name": "精灵短发 较短的 后",
+        "path": "/hair/back/in_a_pixie_cut/short.png"
+      },
+      {
+        "key": "hair_front_in_a_pixie_cut_ear-length",
+        "name": "精灵短发 耳朵长度的 前",
+        "path": "/hair/front/in_a_pixie_cut/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_pixie_cut_ear-length",
+        "name": "精灵短发 耳朵长度的 后",
+        "path": "/hair/back/in_a_pixie_cut/ear-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a rounded tightly curled style",
+    "name": "羊毛卷",
+    "paths": [
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_short",
+        "name": "羊毛卷 较短的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/short.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_short",
+        "name": "羊毛卷 较短的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/short.png"
+      },
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_ear-length",
+        "name": "羊毛卷 耳朵长度的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_ear-length",
+        "name": "羊毛卷 耳朵长度的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_chin-length",
+        "name": "羊毛卷 下巴长度的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_chin-length",
+        "name": "羊毛卷 下巴长度的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_shoulder-length",
+        "name": "羊毛卷 肩膀长度的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_shoulder-length",
+        "name": "羊毛卷 肩膀长度的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_mid-back_length",
+        "name": "羊毛卷 后背长度的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_mid-back_length",
+        "name": "羊毛卷 后背长度的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_rounded_tightly_curled_style_waist-length",
+        "name": "羊毛卷 及腰的 前",
+        "path": "/hair/front/in_a_rounded_tightly_curled_style/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_rounded_tightly_curled_style_waist-length",
+        "name": "羊毛卷 及腰的 后",
+        "path": "/hair/back/in_a_rounded_tightly_curled_style/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_straight with a front fringe and cheek-length sidelocks",
+    "name": "公主切",
+    "paths": [
+      {
+        "key": "hair_front_straight_with_a_front_fringe_and_cheek-length_sidelocks_chin-length",
+        "name": "公主切 下巴长度的 前",
+        "path": "/hair/front/straight_with_a_front_fringe_and_cheek-length_sidelocks/chin-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_front_fringe_and_cheek-length_sidelocks_chin-length",
+        "name": "公主切 下巴长度的 后",
+        "path": "/hair/back/straight_with_a_front_fringe_and_cheek-length_sidelocks/chin-length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_front_fringe_and_cheek-length_sidelocks_shoulder-length",
+        "name": "公主切 肩膀长度的 前",
+        "path": "/hair/front/straight_with_a_front_fringe_and_cheek-length_sidelocks/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_front_fringe_and_cheek-length_sidelocks_shoulder-length",
+        "name": "公主切 肩膀长度的 后",
+        "path": "/hair/back/straight_with_a_front_fringe_and_cheek-length_sidelocks/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_front_fringe_and_cheek-length_sidelocks_mid-back_length",
+        "name": "公主切 后背长度的 前",
+        "path": "/hair/front/straight_with_a_front_fringe_and_cheek-length_sidelocks/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_front_fringe_and_cheek-length_sidelocks_mid-back_length",
+        "name": "公主切 后背长度的 后",
+        "path": "/hair/back/straight_with_a_front_fringe_and_cheek-length_sidelocks/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_straight_with_a_front_fringe_and_cheek-length_sidelocks_waist-length",
+        "name": "公主切 及腰的 前",
+        "path": "/hair/front/straight_with_a_front_fringe_and_cheek-length_sidelocks/waist-length.png"
+      },
+      {
+        "key": "hair_back_straight_with_a_front_fringe_and_cheek-length_sidelocks_waist-length",
+        "name": "公主切 及腰的 后",
+        "path": "/hair/back/straight_with_a_front_fringe_and_cheek-length_sidelocks/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a natural afro",
+    "name": "爆炸头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_natural_afro_close-cropped",
+        "name": "爆炸头 超短的 前",
+        "path": "/hair/front/in_a_natural_afro/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_close-cropped",
+        "name": "爆炸头 超短的 后",
+        "path": "/hair/back/in_a_natural_afro/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_very_short",
+        "name": "爆炸头 非常短的 前",
+        "path": "/hair/front/in_a_natural_afro/very_short.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_very_short",
+        "name": "爆炸头 非常短的 后",
+        "path": "/hair/back/in_a_natural_afro/very_short.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_short",
+        "name": "爆炸头 较短的 前",
+        "path": "/hair/front/in_a_natural_afro/short.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_short",
+        "name": "爆炸头 较短的 后",
+        "path": "/hair/back/in_a_natural_afro/short.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_ear-length",
+        "name": "爆炸头 耳朵长度的 前",
+        "path": "/hair/front/in_a_natural_afro/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_ear-length",
+        "name": "爆炸头 耳朵长度的 后",
+        "path": "/hair/back/in_a_natural_afro/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_chin-length",
+        "name": "爆炸头 下巴长度的 前",
+        "path": "/hair/front/in_a_natural_afro/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_chin-length",
+        "name": "爆炸头 下巴长度的 后",
+        "path": "/hair/back/in_a_natural_afro/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_shoulder-length",
+        "name": "爆炸头 肩膀长度的 前",
+        "path": "/hair/front/in_a_natural_afro/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_shoulder-length",
+        "name": "爆炸头 肩膀长度的 后",
+        "path": "/hair/back/in_a_natural_afro/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_mid-back_length",
+        "name": "爆炸头 后背长度的 前",
+        "path": "/hair/front/in_a_natural_afro/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_mid-back_length",
+        "name": "爆炸头 后背长度的 后",
+        "path": "/hair/back/in_a_natural_afro/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_natural_afro_waist-length",
+        "name": "爆炸头 及腰的 前",
+        "path": "/hair/front/in_a_natural_afro/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_natural_afro_waist-length",
+        "name": "爆炸头 及腰的 后",
+        "path": "/hair/back/in_a_natural_afro/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a neat, central afro puff",
+    "name": "爆炸丸子头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_short",
+        "name": "爆炸丸子头 较短的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/short.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_short",
+        "name": "爆炸丸子头 较短的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/short.png"
+      },
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_ear-length",
+        "name": "爆炸丸子头 耳朵长度的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_ear-length",
+        "name": "爆炸丸子头 耳朵长度的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_chin-length",
+        "name": "爆炸丸子头 下巴长度的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_chin-length",
+        "name": "爆炸丸子头 下巴长度的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_shoulder-length",
+        "name": "爆炸丸子头 肩膀长度的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_shoulder-length",
+        "name": "爆炸丸子头 肩膀长度的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_mid-back_length",
+        "name": "爆炸丸子头 后背长度的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_mid-back_length",
+        "name": "爆炸丸子头 后背长度的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_neat,_central_afro_puff_waist-length",
+        "name": "爆炸丸子头 及腰的 前",
+        "path": "/hair/front/in_a_neat,_central_afro_puff/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_neat,_central_afro_puff_waist-length",
+        "name": "爆炸丸子头 及腰的 后",
+        "path": "/hair/back/in_a_neat,_central_afro_puff/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a pair of afro puffs",
+    "name": "爆炸双丸子头",
+    "paths": [
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_short",
+        "name": "爆炸双丸子头 较短的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/short.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_short",
+        "name": "爆炸双丸子头 较短的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/short.png"
+      },
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_ear-length",
+        "name": "爆炸双丸子头 耳朵长度的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_ear-length",
+        "name": "爆炸双丸子头 耳朵长度的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_chin-length",
+        "name": "爆炸双丸子头 下巴长度的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_chin-length",
+        "name": "爆炸双丸子头 下巴长度的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_shoulder-length",
+        "name": "爆炸双丸子头 肩膀长度的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_shoulder-length",
+        "name": "爆炸双丸子头 肩膀长度的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_mid-back_length",
+        "name": "爆炸双丸子头 后背长度的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_mid-back_length",
+        "name": "爆炸双丸子头 后背长度的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_a_pair_of_afro_puffs_waist-length",
+        "name": "爆炸双丸子头 及腰的 前",
+        "path": "/hair/front/in_a_pair_of_afro_puffs/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_a_pair_of_afro_puffs_waist-length",
+        "name": "爆炸双丸子头 及腰的 后",
+        "path": "/hair/back/in_a_pair_of_afro_puffs/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in cornrows",
+    "name": "玉米辫",
+    "paths": []
+  },
+  {
+    "key": "hair_in bantu knots",
+    "name": "班图结",
+    "paths": []
+  },
+  {
+    "key": "hair_in box braids",
+    "name": "非洲辫",
+    "paths": [
+      {
+        "key": "hair_front_in_box_braids_short",
+        "name": "非洲辫 较短的 前",
+        "path": "/hair/front/in_box_braids/short.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_short",
+        "name": "非洲辫 较短的 后",
+        "path": "/hair/back/in_box_braids/short.png"
+      },
+      {
+        "key": "hair_front_in_box_braids_ear-length",
+        "name": "非洲辫 耳朵长度的 前",
+        "path": "/hair/front/in_box_braids/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_ear-length",
+        "name": "非洲辫 耳朵长度的 后",
+        "path": "/hair/back/in_box_braids/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_box_braids_chin-length",
+        "name": "非洲辫 下巴长度的 前",
+        "path": "/hair/front/in_box_braids/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_chin-length",
+        "name": "非洲辫 下巴长度的 后",
+        "path": "/hair/back/in_box_braids/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_box_braids_shoulder-length",
+        "name": "非洲辫 肩膀长度的 前",
+        "path": "/hair/front/in_box_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_shoulder-length",
+        "name": "非洲辫 肩膀长度的 后",
+        "path": "/hair/back/in_box_braids/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_box_braids_mid-back_length",
+        "name": "非洲辫 后背长度的 前",
+        "path": "/hair/front/in_box_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_mid-back_length",
+        "name": "非洲辫 后背长度的 后",
+        "path": "/hair/back/in_box_braids/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_box_braids_waist-length",
+        "name": "非洲辫 及腰的 前",
+        "path": "/hair/front/in_box_braids/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_box_braids_waist-length",
+        "name": "非洲辫 及腰的 后",
+        "path": "/hair/back/in_box_braids/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in locs",
+    "name": "脏辫",
+    "paths": [
+      {
+        "key": "hair_front_in_locs_short",
+        "name": "脏辫 较短的 前",
+        "path": "/hair/front/in_locs/short.png"
+      },
+      {
+        "key": "hair_back_in_locs_short",
+        "name": "脏辫 较短的 后",
+        "path": "/hair/back/in_locs/short.png"
+      },
+      {
+        "key": "hair_front_in_locs_ear-length",
+        "name": "脏辫 耳朵长度的 前",
+        "path": "/hair/front/in_locs/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_ear-length",
+        "name": "脏辫 耳朵长度的 后",
+        "path": "/hair/back/in_locs/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_chin-length",
+        "name": "脏辫 下巴长度的 前",
+        "path": "/hair/front/in_locs/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_chin-length",
+        "name": "脏辫 下巴长度的 后",
+        "path": "/hair/back/in_locs/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_shoulder-length",
+        "name": "脏辫 肩膀长度的 前",
+        "path": "/hair/front/in_locs/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_shoulder-length",
+        "name": "脏辫 肩膀长度的 后",
+        "path": "/hair/back/in_locs/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_mid-back_length",
+        "name": "脏辫 后背长度的 前",
+        "path": "/hair/front/in_locs/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_locs_mid-back_length",
+        "name": "脏辫 后背长度的 后",
+        "path": "/hair/back/in_locs/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_locs_waist-length",
+        "name": "脏辫 及腰的 前",
+        "path": "/hair/front/in_locs/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_waist-length",
+        "name": "脏辫 及腰的 后",
+        "path": "/hair/back/in_locs/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in finger waves",
+    "name": "手推波纹发型",
+    "paths": [
+      {
+        "key": "hair_front_in_finger_waves_close-cropped",
+        "name": "手推波纹发型 超短的 前",
+        "path": "/hair/front/in_finger_waves/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_close-cropped",
+        "name": "手推波纹发型 超短的 后",
+        "path": "/hair/back/in_finger_waves/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_very_short",
+        "name": "手推波纹发型 非常短的 前",
+        "path": "/hair/front/in_finger_waves/very_short.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_very_short",
+        "name": "手推波纹发型 非常短的 后",
+        "path": "/hair/back/in_finger_waves/very_short.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_short",
+        "name": "手推波纹发型 较短的 前",
+        "path": "/hair/front/in_finger_waves/short.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_short",
+        "name": "手推波纹发型 较短的 后",
+        "path": "/hair/back/in_finger_waves/short.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_ear-length",
+        "name": "手推波纹发型 耳朵长度的 前",
+        "path": "/hair/front/in_finger_waves/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_ear-length",
+        "name": "手推波纹发型 耳朵长度的 后",
+        "path": "/hair/back/in_finger_waves/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_chin-length",
+        "name": "手推波纹发型 下巴长度的 前",
+        "path": "/hair/front/in_finger_waves/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_chin-length",
+        "name": "手推波纹发型 下巴长度的 后",
+        "path": "/hair/back/in_finger_waves/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_shoulder-length",
+        "name": "手推波纹发型 肩膀长度的 前",
+        "path": "/hair/front/in_finger_waves/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_shoulder-length",
+        "name": "手推波纹发型 肩膀长度的 后",
+        "path": "/hair/back/in_finger_waves/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_mid-back_length",
+        "name": "手推波纹发型 后背长度的 前",
+        "path": "/hair/front/in_finger_waves/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_mid-back_length",
+        "name": "手推波纹发型 后背长度的 后",
+        "path": "/hair/back/in_finger_waves/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_finger_waves_waist-length",
+        "name": "手推波纹发型 及腰的 前",
+        "path": "/hair/front/in_finger_waves/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_finger_waves_waist-length",
+        "name": "手推波纹发型 及腰的 后",
+        "path": "/hair/back/in_finger_waves/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in a neat fade",
+    "name": "整齐渐变发型",
+    "paths": [
+      {
+        "key": "hair_front_in_a_neat_fade_close-cropped",
+        "name": "整齐渐变发型 超短的 前",
+        "path": "/hair/front/in_a_neat_fade/close-cropped.png"
+      },
+      {
+        "key": "hair_back_in_a_neat_fade_close-cropped",
+        "name": "整齐渐变发型 超短的 后",
+        "path": "/hair/back/in_a_neat_fade/close-cropped.png"
+      },
+      {
+        "key": "hair_front_in_a_neat_fade_very_short",
+        "name": "整齐渐变发型 非常短的 前",
+        "path": "/hair/front/in_a_neat_fade/very_short.png"
+      },
+      {
+        "key": "hair_back_in_a_neat_fade_very_short",
+        "name": "整齐渐变发型 非常短的 后",
+        "path": "/hair/back/in_a_neat_fade/very_short.png"
+      },
+      {
+        "key": "hair_front_in_a_neat_fade_short",
+        "name": "整齐渐变发型 较短的 前",
+        "path": "/hair/front/in_a_neat_fade/short.png"
+      },
+      {
+        "key": "hair_back_in_a_neat_fade_short",
+        "name": "整齐渐变发型 较短的 后",
+        "path": "/hair/back/in_a_neat_fade/short.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in twists",
+    "name": "扭博辫",
+    "paths": [
+      {
+        "key": "hair_front_in_twists_short",
+        "name": "扭博辫 较短的 前",
+        "path": "/hair/front/in_twists/short.png"
+      },
+      {
+        "key": "hair_back_in_twists_short",
+        "name": "扭博辫 较短的 后",
+        "path": "/hair/back/in_twists/short.png"
+      },
+      {
+        "key": "hair_front_in_twists_ear-length",
+        "name": "扭博辫 耳朵长度的 前",
+        "path": "/hair/front/in_twists/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_twists_ear-length",
+        "name": "扭博辫 耳朵长度的 后",
+        "path": "/hair/back/in_twists/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_twists_chin-length",
+        "name": "扭博辫 下巴长度的 前",
+        "path": "/hair/front/in_twists/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_twists_chin-length",
+        "name": "扭博辫 下巴长度的 后",
+        "path": "/hair/back/in_twists/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_twists_shoulder-length",
+        "name": "扭博辫 肩膀长度的 前",
+        "path": "/hair/front/in_twists/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_twists_shoulder-length",
+        "name": "扭博辫 肩膀长度的 后",
+        "path": "/hair/back/in_twists/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_twists_mid-back_length",
+        "name": "扭博辫 后背长度的 前",
+        "path": "/hair/front/in_twists/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_twists_mid-back_length",
+        "name": "扭博辫 后背长度的 后",
+        "path": "/hair/back/in_twists/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_twists_waist-length",
+        "name": "扭博辫 及腰的 前",
+        "path": "/hair/front/in_twists/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_twists_waist-length",
+        "name": "扭博辫 及腰的 后",
+        "path": "/hair/back/in_twists/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in locs on top but undercut on both sides",
+    "name": "削边脏辫",
+    "paths": [
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_short",
+        "name": "削边脏辫 较短的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/short.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_short",
+        "name": "削边脏辫 较短的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/short.png"
+      },
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_ear-length",
+        "name": "削边脏辫 耳朵长度的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/ear-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_ear-length",
+        "name": "削边脏辫 耳朵长度的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/ear-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_chin-length",
+        "name": "削边脏辫 下巴长度的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/chin-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_chin-length",
+        "name": "削边脏辫 下巴长度的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/chin-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_shoulder-length",
+        "name": "削边脏辫 肩膀长度的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/shoulder-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_shoulder-length",
+        "name": "削边脏辫 肩膀长度的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/shoulder-length.png"
+      },
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_mid-back_length",
+        "name": "削边脏辫 后背长度的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/mid-back_length.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_mid-back_length",
+        "name": "削边脏辫 后背长度的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/mid-back_length.png"
+      },
+      {
+        "key": "hair_front_in_locs_on_top_but_undercut_on_both_sides_waist-length",
+        "name": "削边脏辫 及腰的 前",
+        "path": "/hair/front/in_locs_on_top_but_undercut_on_both_sides/waist-length.png"
+      },
+      {
+        "key": "hair_back_in_locs_on_top_but_undercut_on_both_sides_waist-length",
+        "name": "削边脏辫 及腰的 后",
+        "path": "/hair/back/in_locs_on_top_but_undercut_on_both_sides/waist-length.png"
+      }
+    ]
+  },
+  {
+    "key": "hair_in textured waves",
+    "name": "自然卷",
+    "paths": []
+  }
+]
